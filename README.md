@@ -1,2 +1,2 @@
 # empregaBot
-Emprega Bot é um sistema automatizado para enviar vagas de emprego em TI direto para o canal no Telegram
+Emprega Bot é um sistema automatizado para enviar vagas de emprego de TI direto para o canal no Telegram, o projeto foi desenvolvido no Curso de Sistemas para Internet do Instituto Federal de Brasilia (IFB).
